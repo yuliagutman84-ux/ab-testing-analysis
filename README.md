@@ -37,7 +37,7 @@ Interactive Tableau dashboard featuring:
 - Breakdown by continent, country, channel, and device
 - Filter by test number
 
-🔗 [View live dashboard on Tableau Public](https://public.tableau.com/app/profile/yulia.gutman/viz/ABTestAnalysis_17840710634020/ABTestAnalysis?publish=yes)
+![AB Test Dashboard](ab-test-dashboard.png)
 
 ## Notebook
 🔗 [View Python analysis on Google Colab](https://colab.research.google.com/drive/1boDA3D5jR5RC1t1yxQebGXOUwZEI6UeI?usp=sharing)
